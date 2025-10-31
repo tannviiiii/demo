@@ -1,2 +1,2 @@
 # demo
-This is my first  REPO.
+This is my first repo.
